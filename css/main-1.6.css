@@ -3,6 +3,8 @@ h1, h2, h3, h4, h5, h6 { /*reset for mobile browsers */
     font-weight: normal;
 }
 
+@import url(http://fonts.googleapis.com/css?family=Tangerine:400,700|Great+Vibes);
+
 /* ==========================================================================
    HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
    ========================================================================== */
@@ -161,7 +163,7 @@ body {
 }
 
 #introtext .head-sarah {
-    font-family: "EdwardianScrAltITCTT", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", cursive;
     font-size: 5em;
     line-height: 100%;
 }
@@ -172,13 +174,13 @@ body {
     font-size: 0.7em;
 }
 #introtext .head-brad {
-    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    font-size: 2em;
+    font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", cursive;
+    font-size: 5em;
     line-height: 100%;
 }
 #introtext .date {
     margin-top: 10px;
-    font-family: "futura_ltbook", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-family: "Tangerine", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", cursive;
     font-size: 1em;
 }
 
@@ -549,7 +551,7 @@ section h2 {
     }
 
     #introtext .head-sarah {
-        font-size: 11em;
+        font-size: 5em;
     }
     #introtext .amp {
         top: 0;
@@ -560,7 +562,7 @@ section h2 {
     }
     #introtext .date {
 
-        font-size: 2.5em;
+        font-size: 4.5em;
         margin-top: 15px;
         margin-bottom: 20px;
     }
