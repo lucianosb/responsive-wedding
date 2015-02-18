@@ -1,15 +1,11 @@
 responsive-wedding
 ------------------
 
-An HTML5 responsive design using jquery waypoints & scroll-to for a pleasant single-page navigation. This template makes use of media queries and scales well for all mobile form-factors.
+Este repositório serve apenas hospedar o site de meu casamento que pode ser acesso em 
 
-A live demo can be viewed at:
-
-   http://sarahlovesbradley.com
+http://lidiaeluciano.tk
 
 ========
-
-![Preview](https://github.com/bmgdev/responsive-wedding/blob/master/preview.png?raw=true)
 
 ## LICENSE
 
